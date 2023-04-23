@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Endeavor/static/css/main.c979d8d8.css",
+    "main.js": "/Endeavor/static/js/main.ed8d0010.js",
+    "index.html": "/Endeavor/index.html",
+    "main.c979d8d8.css.map": "/Endeavor/static/css/main.c979d8d8.css.map",
+    "main.ed8d0010.js.map": "/Endeavor/static/js/main.ed8d0010.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c979d8d8.css",
+    "static/js/main.ed8d0010.js"
+  ]
+}
